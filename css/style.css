@@ -3,5 +3,16 @@ body {
 }
 
 header {
-   display: block;
+   display: flex;
+   width: 1440px;
+   padding: 10px 25px;
+   justify-content: space-between;
+   align-items: center;
+   background: var(--Base-White, #FFF);
+   box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.10);
+}
+
+#TitleHeader {
+   background-color: lightgrey;
+   padding: 10px 25px;
 }
