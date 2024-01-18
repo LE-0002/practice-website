@@ -1,1 +1,1 @@
-# CISSA-SummerHack-2024
+# practice website
